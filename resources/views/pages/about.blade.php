@@ -31,7 +31,7 @@
                         </div>
                         <div class="col-lg-6">
                             <ul>
-                                <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
+                                <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>29</span></li>
                                 <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>MSCS(SE)</span></li>
                                 <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>sidranajam2190@gmail.com</span></li>
                                 <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>

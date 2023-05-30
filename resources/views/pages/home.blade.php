@@ -9,6 +9,7 @@
 
    @include('pages.strength')
    @include('pages.recommendation')
+   @include('pages.contact')
 
 
 @endsection
